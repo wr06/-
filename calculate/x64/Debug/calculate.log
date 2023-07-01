@@ -1,0 +1,4 @@
+﻿  calculate.cpp
+D:\新建文件夹\王若凡\学习\就业\宝洁\calculate\calculate\calculate.cpp(32,14): warning C4101: “n2”: 未引用的局部变量
+D:\新建文件夹\王若凡\学习\就业\宝洁\calculate\calculate\calculate.cpp(32,11): warning C4101: “n1”: 未引用的局部变量
+  calculate.vcxproj -> D:\新建文件夹\王若凡\学习\就业\宝洁\calculate\x64\Debug\calculate.exe
